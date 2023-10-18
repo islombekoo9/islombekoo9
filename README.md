@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @islombekoo9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning  fronend
-- 💞️ I’m looking to collaborate on ...
+- 📚 I'm currently learning the frontend
+- 🎯 Objectives: programmer
+- 🎲 Interesting fact: html, css, js
 - 📫 To reach me @ibotov_islombek
 
 <!---
