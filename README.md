@@ -3,6 +3,10 @@
 - 🎯 Objectives: programmer
 - 🎲 Interesting fact: html, css, js
 - 📫 To reach me @ibotov_islombek
+- _islombekoo9
+- .
+- .
+- 
 
 <!---
 islombekoo9/islombekoo9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
